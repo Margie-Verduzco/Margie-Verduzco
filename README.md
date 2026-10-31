@@ -100,7 +100,7 @@ I focus on Business Intelligence, Data Analytics, and Data Solutions Development
       <h3>Virtual Stars Observatory</h3>
       <p>An interactive 3D star observatory built with Three.js, exploring astronomical data through immersive data visualization.</p>
       <br>
-      <img src="https://img.shields.io/badge/DATACONNECT%202026-TOP%2010%20FINALIST-D9A5B3?style=for-the-badge" alt="Top 10 Finalist">
+  <img src="https://img.shields.io/badge/DATACONNECT%202026%20DATAVIZ%20COMPETITION-TOP%2010%20FINALIST-D9A5B3?style=for-the-badge" alt="Top 10 Finalist - DataConnect 2026 DataViz Competition">
       <br><br>
       <a href="https://margie-verduzco.github.io/virtual-stars-observatory/">
         <img src="https://img.shields.io/badge/Explore-Live%20Experience-3D405B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Virtual Stars Observatory">
