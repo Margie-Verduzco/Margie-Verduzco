@@ -136,8 +136,8 @@ I focus on Business Intelligence, Data Analytics, and Data Solutions Development
 ## LET'S CONNECT
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-A88FAC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/margie-marie-verduzco-espinoza-8669a0183/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-A88FAC?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
   </a>
   <a href="https://github.com/margie-verduzco">
     <img src="https://img.shields.io/badge/GITHUB-FOLLOW-3D405B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
